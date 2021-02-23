@@ -1,11 +1,11 @@
-
-
-pkg insatll python -y
-pip install --upgrade pip
-pip install request
-pip install bs4
-pip install urllib3
-pip install json
-clear
-
-echo -e "                        python3 Spider-Breaking.py"
+pkg install python
+pkg install dos2unix
+cp ~/Spider-Breaking1.0/Spider-Breaking/Spider-Breaking.py $PREFIX/bin/Breaking
+cp ~/Spider-Breaking1.0/Spider-Breaking/collector.txt &PREFIX/bin/Informant
+dos2unix $PREFIX/bin/Breaking
+chmod -R 777 ~/Breaking
+chmod 777 $PREFIX/bin/Breaking
+dos2unix &PREFIX/bin/Informant
+chmod -R 777 ~/Informant
+chmod 777 &PREFIX/bin/Informant
+Breaking

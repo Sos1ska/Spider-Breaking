@@ -7,7 +7,7 @@ Android:
 4. pkg install git -y
 5. git clone https://github.com/Cool-Hackers/Spider-Breaking1.0
 6. cd Spider-Breaking1.0/Spider-Breaking/
-7. bash install-And,ios.sh
+7. bash install.sh
 8. python3 Spider-Breaking.py
 
 IOS:
@@ -17,7 +17,7 @@ IOS:
 4. pkg install git -y
 5. git clone https://github.com/Cool-Hackers/Spider-Breaking1.0
 6. cd Spider-Breaking1.0/Spider-Breaking/
-7. bash install-And,ios.sh
+7. bash install.sh
 8. python3 Spider-Breaking.py
 
 Windows:

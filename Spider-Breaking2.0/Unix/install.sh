@@ -20,8 +20,8 @@ then
     clear
     pip install requests urllib3 json
     clear
-    cp ~/Spider-Breaking2.0/Unix/break.py $PREFIX/bin/spider
-    cp ~/Spider-Breaking2.0/Unix/collector.txt $PREFIX/bin/information
+    cp ~/Spider-Breaking/Spider-Breaking2.0/Unix/break.py $PREFIX/bin/spider
+    cp ~/Spider-Breaking/Spider-Breaking2.0/Unix/collector.txt $PREFIX/bin/information
     dos2unix $PREFIX/bin/spider
     dos2unix $PREFIX/bin/information
     chmod -R 777 ~/Spider-Breaking2.0
@@ -38,11 +38,11 @@ else
         else
             apt install python3 python3-pip dos2unix
 			pip3 install requests urllib3 json
-            cp ~/Spider-Breaking2.0/Unix/break.py $PREFIX/bin/spider
-            dos2unix $PREFIX/bin/spider
-            chmod -R 777 ~/Spider-Breaking2.0
-            chmod 777 $PREFIX/bin/spider
-            echo "break - Вызов кода"
+                        cp ~/Spider-Breaking/Spider-Breaking2.0/Unix/break.py $PREFIX/bin/spider
+                        dos2unix $PREFIX/bin/spider
+                        chmod -R 777 ~/Spider-Breaking2.0
+                        chmod 777 $PREFIX/bin/spider
+                        echo "spider - Вызов кода"
         fi
     else
         if [ $numb = "3" ]
@@ -53,11 +53,11 @@ else
 			pip3 install requests
 			pip3 install json
 			pip3 install urllib3
-            cp ~/Spider-Breaking2.0/Unix/break.py /usr/bin/spider
-            dos2unix /usr/bin/spider
-            chmod -R 777 ~/Spider-Breaking2.0
-            chmod 777 /usr/bin/spider
-			echo "break - Вызов кода"
+                        cp ~/Spider-Breaking/Spider-Breaking2.0/Unix/break.py /usr/bin/spider
+                        dos2unix /usr/bin/spider
+                        chmod -R 777 ~/Spider-Breaking2.0
+                        chmod 777 /usr/bin/spider
+			echo "spider - Вызов кода"
         else
             echo "Некорректный ввод"
         fi

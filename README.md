@@ -19,8 +19,6 @@ IOS:
 7. spider
 
 Windows:
-1. Скачиваем ---> https://www.python.org/downloads/
-2. Заходим
-3. Скачиваем файлы с https://github.com/Cool-Hackers/Spider-Breakin или с https://drive.google.com/drive/folders/1htw-cbPOfMe0wqrb1EYkDxdPI61Oc_Jd?usp=sharing
-4. Открываем сначало файл install.py
-5. Потом уже открываем Breaking.py
+1. Скачиваем папку
+2. Просто заходим в Breaking.exe 
+3. Радуемся

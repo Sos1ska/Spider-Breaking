@@ -20,5 +20,5 @@ IOS:
 
 Windows:
 1. Скачиваем папку
-2. Просто заходим в Breaking.exe 
+2. Просто заходим в Spider-Breaking.exe 
 3. Радуемся

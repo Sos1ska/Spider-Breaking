@@ -20,5 +20,6 @@ IOS:
 
 Windows:
 1. Скачиваем папку
-2. Просто заходим в Spider-Breaking.exe 
-3. Радуемся
+2. Скидываем папку Spider-Breaking в путь D:\
+3. Запускаем Spider-Breaking.exe
+4. Радуемся

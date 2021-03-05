@@ -20,13 +20,11 @@ then
     clear
     pip install requests urllib3 json
     clear
-    cp ~/Spider-Breaking2.0/Unix/break.py $PREFIX/bin/spider
-    cp ~/Spider-Breaking2.0/Unix/collector.txt $PREFIX/bin/information
+    cp ~/Spider-Breaking/Spider-Breaking/Unix/break.py $PREFIX/bin/spider
     dos2unix $PREFIX/bin/spider
     dos2unix $PREFIX/bin/information
-    chmod -R 777 ~/Spider-Breaking2.0
+    chmod -R 777 ~/Spider-Breaking
     chmod 777 $PREFIX/bin/spider
-    chmod 777 $PREFIX/bin/information
     echo "spider - Вызов кода"
 else
     if [ $numb = "2" ]

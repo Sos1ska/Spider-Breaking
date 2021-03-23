@@ -3,11 +3,10 @@
 Android:
 1. Скачиваем ---> https://play.google.com/store/apps/details?id=com.termux&hl=ru&gl=US
 2. Заходим
-3. Вводим ---> apt upfate && apt upgrade
-4. pkg install git -y
-5. git clone https://github.com/Cool-Hackers/Spider-Breaking
-6. sh ~/Spider-Breaking/Spider-Breaking2.0/Unix/install.sh
-7. spider
+3. Вводим ---> pkg install git -y
+4. git clone https://github.com/Sos1ska/Spider-Breaking
+5. chmod +x ~/Spider-Breaking/Breaking3.0/Unix/install.sh
+6. sh ~/Spider-Breaking/Breaking3.0/Unix/install.sh
 
 IOS:
 1. Скачать ---> https://apps.apple.com/ru/app/testflight/id899247664 потом начать тестирование в ---> https://testflight.apple.com/join/97i7KM8O
@@ -15,13 +14,11 @@ IOS:
 3. apk upgrade
 4. apk add git
 5. git clone https://github.com/Sos1ska/Spider-Breaking
-6. sh ~/Spider-Breaking/Spider-Breaking2.0/Unix/install.sh
-7. spider
+6. chmod +x ~/Spider-Breaking/Breaking3.0/Unix/install.sh
+7. sh ~/Spider-Breaking/Breaking3.0/Unix/install.sh
 
 Windows:
-1. Скачиваем папку
-2. Скидываем папку Spider-Breaking в путь D:\
-3. Запускаем Spider-Breaking.exe
-4. Радуемся
-
-Внимание! 23.03 в 11:00 будет все удалено, завозим обновление 3.0
+1. Скачиваем zip файл
+2. Распаковываем zip файл
+3. Преходим в папки Spider-Breaking/Breaking3.0/Windows/
+4. И нажимаем setup.exe

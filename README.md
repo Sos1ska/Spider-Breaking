@@ -1,4 +1,10 @@
 # Spider-Breaking3.0
+<center><img src=https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/image/1%20Screen.jpg></center>
+
+<center><img src=https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/image/2%20Screen.jpg></center>
+
+<center><img src=https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/image/3%20Screen.jpg></center>
+
 
 Android:
 1. Скачиваем ---> https://play.google.com/store/apps/details?id=com.termux&hl=ru&gl=US
@@ -17,7 +23,7 @@ IOS:
 6. chmod +x ~/Spider-Breaking/Breaking3.0/Unix/install.sh
 7. sh ~/Spider-Breaking/Breaking3.0/Unix/install.sh
 
-Windows:
+Windows_(exe):
 1. Скачиваем zip файл
 2. Распаковываем zip файл
 3. Преходим в папки Spider-Breaking/Breaking3.0/Windows/

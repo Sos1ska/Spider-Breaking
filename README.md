@@ -1,10 +1,12 @@
 # Spider-Breaking3.0
 <center><img src=https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/image/1%20Screen.jpg></center>
+Windows_(console)
 
 <center><img src=https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/image/2%20Screen.jpg></center>
+Windows_(console)
 
 <center><img src=https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/image/3%20Screen.jpg></center>
-
+Windows_(console)
 
 Android:
 1. Скачиваем ---> https://play.google.com/store/apps/details?id=com.termux&hl=ru&gl=US

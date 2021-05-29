@@ -37,13 +37,13 @@ Spider-Breaking (Windows) - 21.06.2021
 
 # Установка (Termux)
 
-<code>pkg install wget -y</code>
-<code>wget https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/install.sh</code>
+1.<code>pkg install wget -y</code>
+2.<code>wget https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/install.sh</code>
 Ждём завершения установки
-<code>spider</code>
+3.<code>spider</code>
 
 # Donate 
 
-qiwi.com/n/SOSISKA - [![Qiwi-Wallet](https://static.qiwi.com/img/qiwi_com/header/qiwi-wallet-logo.svg)]
+qiwi.com/n/SOSISKA - <img src="https://static.qiwi.com/img/qiwi_com/header/qiwi-wallet-logo.svg" width="100" height="111" alt="Винни-Пух">
 
 Буду благодарен хоть рублю

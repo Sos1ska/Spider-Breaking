@@ -16,7 +16,6 @@ from files.services.break_num_car import start_num_car
 from files.services.dos_wifi import start_dos_wifi
 from files.services.search_nick import start_nick
 from files.services.sms_bomb import start_bomb
-from files.services.weeman_master.weeman import main
 from files.services.update import update
 from files.wrn.warn import (file_not_found_log, i_e_colo, i_e_url3,
                             i_e_url_requ, keyboard)
@@ -83,8 +82,6 @@ def start_main():
                     start_bomb()
                 elif str(menu) == "help":
                     help_menu()
-                elif str(menu) == "fishing":
-                    main()
                 elif str(menu) == "update":
                     update()
                 else:

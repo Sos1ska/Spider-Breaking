@@ -46,7 +46,7 @@ Spider-Breaking (Windows) - 21.06.2021
 
 qiwi.com/n/SOSISKA 
                   
-                  <img src="https://static.qiwi.com/img/qiwi_com/header/qiwi-wallet-logo.svg" width="90" height="100">
+<img src="https://static.qiwi.com/img/qiwi_com/header/qiwi-wallet-logo.svg" width="90" height="100">
 
 Копируем ссылку, и вставляем в браузер
 

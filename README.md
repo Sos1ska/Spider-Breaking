@@ -37,10 +37,10 @@ Spider-Breaking (Windows) - 21.06.2021
 
 # Установка (Termux)
 
-1.<code>pkg install wget -y</code>
-2.<code>wget https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/install.sh</code>
-Ждём завершения установки
-3.<code>spider</code>
+1.<code>pkg install wget -y</code><br>
+2.<code>wget https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/install.sh</code><br>
+Ждём завершения установки<br>
+3.<code>spider</code><br>
 
 # Donate 
 

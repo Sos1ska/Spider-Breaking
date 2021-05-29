@@ -37,7 +37,7 @@ Spider-Breaking (Windows) - 21.06.2021
 6. Будет установщик так на Windows (console) так и на Windows (exe)
 
 # Установка (Termux)
-![Install-To-Termux](https://img.shields.io/badge/Install-For%20Termux-red) 
+![Install-To-Termux](https://img.shields.io/badge/Install-For%20Termux-red)<br>
 1.<code>pkg install wget -y</code><br>
 2.<code>wget https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/install.sh</code><br>
 Ждём завершения установки<br>

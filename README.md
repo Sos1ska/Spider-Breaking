@@ -2,6 +2,7 @@
 
 # Spider-Breaking (Termux)
 Spider-Breaking - это исходный код, где собраны исхожные коды как Number-System, IP-System и т.д.
+
 ****Добавлено****
 dos_wifi - снижает скорость интернета в локальной сети
 sms_bomb - смс-бомбер (работает только на РФ номера)
@@ -25,6 +26,7 @@ check_inet - проверка интернета
 
 # Spider-Breaking (console/exe)
 Spider-Breaking (Windows) - 21.06.2021
+
 ****Будет добавлено****
 1. При ошибки выйдет окно об ошибки в коде
 2. Работа через Proxy-Server

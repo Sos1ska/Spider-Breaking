@@ -35,3 +35,15 @@ Spider-Breaking (Windows) - 21.06.2021
 5. Будет добавлено .vbs файлы, которые будут выводить окно об ошибке
 6. Будет установщик так на Windows (console) так и на Windows (exe)
 
+# Установка (Termux)
+
+<code>pkg install wget -y</code>
+<code>wget https://raw.githubusercontent.com/Sos1ska/Spider-Breaking/Sos1ska/install.sh</code>
+Ждём завершения установки
+<code>spider</code>
+
+# Donate 
+
+qiwi.com/n/SOSISKA - [![Qiwi-Wallet](https://static.qiwi.com/img/qiwi_com/header/qiwi-wallet-logo.svg)]
+
+Буду благодарен хоть рублю

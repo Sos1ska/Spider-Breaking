@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/python3
 import json, os, time
 
 from files.wrn.warn import i_e_url_requ

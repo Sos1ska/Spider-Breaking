@@ -1,16 +1,15 @@
 apt update && apt upgrade
-pkg install python -y
+pkg install python3 -y
 pip install --upgrade pip
+pip install colorama
 pip install requests
-pip install colorama 
 pip install urllib3
-pkg install unzip -y
 pkg install git -y
-pkg upgrade -y
-git clone https://github.com/Sos1ska/Spider-Breaking
-unzip ~/Spider-Breaking/Termux.zip
-rm -rf ~/Spider-Breaking/Termux.zip
-cd ~/Spider-Breaking/ && chmod -R 777 Termux
+mdkir /data/data/com.termux/files/Sos1ska
+git clone https://github.com/Sos1ska/Spider-Breaking.git
+mv ~/Spider-Breaking/Termux /data/data/com.termux/files/Sos1ska/.Termux
+chmod -R 777 /data/data/com.termux/files/Sos1ska/.Termux
+rm -rf ~/Spider-Breaking
+cd $PREFIX/bin && ln -s /data/data/com.termux/files/Sos1ska/.Termux/Spider-Breaking.py spider
 clear
-echo 'cd ~/Spider-Breaking/Termux && python spider-breaking.py or python ~/Spider-Breaking/Termux/spider-breaking'
-rm -rf ~/Spider-Breaking/install.sh
+echo 'spider - Запуск кода'

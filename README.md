@@ -1,5 +1,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![made-with-installer-shell](https://img.shields.io/badge/Made-Installer%20to%20Shell-green)
+![made-for-Termux](https://img.shields.io/badge/Made-For%20Termux-red) 
 # Spider-Breaking (Termux)
 Spider-Breaking - это исходный код, где собраны исхожные коды как Number-System, IP-System и т.д.
 

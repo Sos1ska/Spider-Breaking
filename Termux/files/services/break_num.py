@@ -1,4 +1,4 @@
-import datetime
+ #!/data/data/com.termux/files/usr/bin/python3import datetime
 import json
 import os
 from time import sleep

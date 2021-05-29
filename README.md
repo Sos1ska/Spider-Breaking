@@ -25,7 +25,8 @@ check_inet - проверка интернета
 ****ВАЖНО****
 Не меняйте значение Version в config.json, при проверки обновления, начнётся обновления, т.к. код update подумает что стоит старая версия
 
-# Spider-Breaking (console/exe)
+# Spider-Breaking (Windows console/exe)
+![Soon-to-the-Windows](https://img.shields.io/badge/Soon%20to-The%20Windows-blue) <br>
 Spider-Breaking (Windows) - 21.06.2021
 
 ****Будет добавлено****

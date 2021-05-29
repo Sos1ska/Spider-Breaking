@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/python3
 import os
 
 from files.wrn.warn import i_e_colo

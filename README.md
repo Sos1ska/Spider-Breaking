@@ -27,7 +27,7 @@ Spider-Breaking - это исходный код, где собраны исхо
 
 # Spider-Breaking (Windows console/exe)
 ![Soon-to-the-Windows](https://img.shields.io/badge/Soon%20to-The%20Windows-blue) <br>
-Spider-Breaking (Windows) - 21.06.2021
+Spider-Breaking (Windows) - <strike>21.06.2021</strike> 26.06.2021
 
 ****Будет добавлено****<br>
 1. При ошибки выйдет окно об ошибки в коде<br>

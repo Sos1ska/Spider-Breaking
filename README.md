@@ -37,6 +37,11 @@ Spider-Breaking (Windows) - <strike>21.06.2021</strike> <strike>26.06.2021</stri
 5. Будет добавлено .vbs файлы, которые будут выводить окно об ошибке<br>
 6. Будет установщик так на Windows (console) так и на Windows (exe)<br>
 
+****ВНИМАНИЕ****<br>
+Spider-Breaking для Windows выйдет в Alpha версии, Русского языка в Alpha версии не будет, только английский
+Будет мало сервисов 
+Код не будет работать через Proxy-Сервер
+
 # Установка (Termux)
 ![Install-To-Termux](https://img.shields.io/badge/Install-For%20Termux-red)<br>
 1.<code>pkg install wget -y</code><br>

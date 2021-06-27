@@ -1,0 +1,1 @@
+x=msgbox("Not found file 'notification_config.json'", 32, "Error")

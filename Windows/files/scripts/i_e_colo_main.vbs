@@ -1,0 +1,1 @@
+x=msgbox("ImportError 'colorama'", 32, "Error")

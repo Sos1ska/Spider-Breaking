@@ -1,1 +1,13 @@
-
+{
+    "Work_proxy_server":{
+        "Work_proxy":"no",
+        "comments":"no - will not work proxy, yes - will work proxy",
+        "comments1":"Default - no"
+    },
+    "developers":{
+        "Sos1ska":"https://vk.com/nikitasos1ska, https://github.com/Sos1ska",
+        "Ki11sesh":"https://vk.com/2pac_jdm, https://github.com/Ki11sesh",
+        "Covidone":"https://vk.com/covidone",
+        "Paket":"https://vk.com/paket20"
+    }
+}

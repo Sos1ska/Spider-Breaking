@@ -1,1 +1,13 @@
-
+{
+    "Setting notification":{
+        "notification":"retro",
+        "comments":"new - notification new formation, retro - notification retro",
+        "comments1":"new - win 8.1, 10, retro - win 7, win XP"
+    },
+    "developers":{
+        "Sos1ska":"https://vk.com/nikitasos1ska, https://github.com/Sos1ska",
+        "Ki11sesh":"https://vk.com/2pac_jdm, https://github.com/Ki11sesh",
+        "Covidone":"https://vk.com/covidone",
+        "Paket":"https://vk.com/paket20"
+    }
+}
